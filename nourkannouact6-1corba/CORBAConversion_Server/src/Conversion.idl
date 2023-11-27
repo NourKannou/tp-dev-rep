@@ -1,7 +1,0 @@
-module corbaConversion {
- interface IConversionRemote{
-     double conversionMontant (in double mt);
-
-
- };
-};
